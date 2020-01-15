@@ -7,3 +7,8 @@ https://nikgrozev.com/2015/06/16/fast-and-simple-sampling-in-pandas-when-loading
 https://docs.python.org/3/library/functions.html
 
 --> Info on Python 3 functions.
+
+
+https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
+
+--> The link seems pretty self-explanatory.
